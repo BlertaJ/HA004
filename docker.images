@@ -1,0 +1,5 @@
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+blertaj/node-app    latest              f268cb7bf906        8 minutes ago       907MB
+node                10                  d5680e53a228        8 days ago          903MB
+nginx               latest              231d40e811cd        8 days ago          126MB
+hello-world         latest              fce289e99eb9        11 months ago       1.84kB
